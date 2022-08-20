@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "God of war 1",
+        "price": 25000,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "God of war 2",
+        "price": 35000,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "God of war 3",
+        "price": 35000,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "God of war 4",
+        "price": 35000,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "God of war 5 ragnarok",
+        "price": 35000,
+        "image": ""
+    }
+]

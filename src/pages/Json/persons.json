@@ -1,0 +1,419 @@
+[
+
+    {
+        "name": "Кратос",
+        "image": "https://static.wikia.nocookie.net/eebe428f-884e-4844-ba2d-a06e80a3eead",
+        "description": "Призрак Спарты Белый Воин Бог Войны и Смерти Слуга Ареса Убийца Богов Смертный  Убийца Ареса Разрушитель Атлантиды Спартанец Меченный Воин Клятвопреступник Уничтожитель миров Убийца Аргуса Проклятый смертный Падший Бог Убийца Геи",
+        "lang":"ru"
+    },
+    {
+        "name": "kratos",
+        "image": "https://static.wikia.nocookie.net/eebe428f-884e-4844-ba2d-a06e80a3eead",
+        "description": "Ghost of Sparta White Warrior God of War and Death Servant of Ares God Slayer Mortal Ares Slayer Destroyer of Atlantis Spartan Marked Warrior Oathbreaker World Destroyer Argus Slayer Cursed Mortal Fallen God Gaia Slayer",
+        "lang":"en"
+    },
+    {
+        "name": "Կրատոս",
+        "image": "https://static.wikia.nocookie.net/eebe428f-884e-4844-ba2d-a06e80a3eead",
+        "description": "Սպարտայի ուրվական Սպիտակ ռազմիկ Պատերազմի աստված և մահվան ծառա Արեսի Աստված սպանող Մահկանացու Արես սպանող Ատլանտիդայի կործանիչ Սպարտան նշանավորվել է Warrior Oathbreaker World Destroyer Argus Slayer Cursed Mortal Fallen God Gaia Slayer",
+        "lang":"am"
+    },
+    {
+        "name": "Атрей",
+        "image": "https://garantmarket.net/uploads/posts/2021-06/60cfc34a8db14.jpg",
+        "description": "Атрей — молодой мальчик с каштановыми волосами, светлым лицом с веснушками и глазами цветом голубого льда. Его одежда сделана из кожи и меха. Ему 11 лет.",
+        "lang":"ru"
+    },
+    {
+        "name": "Арес",
+        "image": "https://cdna.artstation.com/p/assets/images/images/029/027/444/large/nton-smaznov-.jpg?1596224623",
+        "description": "Арес (англ. Ares, др.-греч. Ἄρης) — первый бог войны и главный антагонист в игре God of War. Арес - сын Зевса и Геры, обычно упоминается как самый ненавистный Бог на Олимпе.",
+        "lang":"ru"
+    },
+    {
+        "name": "Йормунганд",
+        "image": "http://storge.pic2.me/w/560x350/917/598ae42151b2a.webp",
+        "description": "После того, как другие йотуны скрылись от преследования Тора и других богов-асов, Йормунганд остался единственным великаном в Мидгарде, способным сразиться с Тором. Он проводит своё время в спячке, защищая тайную комнату"
+       , "lang":"ru"
+    },
+    {
+        "name": "Бальдр",
+        "image": "https://pbs.twimg.com/media/DkUywsvU0AImQoP.jpg",
+        "description": "Бальдр подобен присутствующим в мифологии многих народов божествам умирающей и возрождающейся природы, покровительствующим земледелию или растительности в целом. Такие боги обычны для мифологий и религий народов, живущих или живших на территориях, для природы которых характерна сезонность"
+       , "lang":"ru"   
+    },
+    {
+        "name": "Брок",
+        "image": "https://i.pinimg.com/originals/bc/d1/23/bcd123e8344ac28559b4991d6746a906.jpg",
+        "description": "Брок — персонаж в игре God of War. Как и его брат Синдри, Брок является гномом. Вместе они выковали топор Кратоса — Левиафан. Синдри и Брок помогают Кратосу и Атрею в их приключениях. В своей кузнице они могут улучшить оружие и экипировку спартанца и его сына, если им будут предоставлены необходимы материалы."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Гелиос",
+        "image": "https://i.ytimg.com/vi/j37gCpv29dQ/maxresdefault.jpg",
+        "description": "Гелиос (англ. Helios) — бог Солнца и охранник клятв, второстепенный антагонист в игре God of War III. Наряду с Посейдоном, Аидом, Аресом и Зевсом является одним из самых сильных богов."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Гермес",
+        "image": "https://i.pinimg.com/736x/03/e9/d0/03e9d04262a7abdd4698159cd2be5b61.jpg",
+        "description": "Гермес (англ. Hermes) — древнегреческий бог, покровитель путешественников, пастухов, музыкальных инструментов и воров. Посланник Олимпа."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Деймос",
+        "image": "https://i.pinimg.com/originals/f8/e1/dc/f8e1dc989bc99b7b5cfcc9e6606c7889.jpg",
+        "description": "Деймос (англ. Deimos, др.-греч. Δεῖμος) — младший брат Кратоса. Деймос еще ребенком был похищен Аресом и Афиной, чтобы предотвратить пророчество о разрушении Олимпа."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Лаувейя",
+        "image": "https://img.youtube.com/vi/5AoFhO5co3I/maxresdefault.jpg",
+        "description": "Несмотря на то, что Лаувейя жила жизнью простой смертной и по неизвестным причинам взяла себе имя Фэй и скрывала от семьи свою истинную природу, она была великаншей из Йотунхейма."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Магни",
+        "image": "http://i.ytimg.com/vi/WxYYgL5joRw/maxresdefault.jpg?7857057827",
+        "description": "Магни и его брат Моди были вызваны Одином, чтобы помочь Бальдру в поисках Кратоса и его сына. Втроём они отправляются искать помощи у заключённого в тюрьму Мимира, однако тот отказывается им помочь и прогоняет асов, несмотря на то, что Бальдр обещает ему свободу."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Мимир",
+        "image": "https://cdn.shazoo.ru/399674_pxZiPoB0dV_mimir.jpg",
+        "description": "109 лет назад Мимир был заключён в тюрьму Одином, который лично подвергал его ежедневным пыткам."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Моди",
+        "image": "https://i.pinimg.com/originals/99/6f/46/996f4614bca040c7bd5cc3e782ef0c6d.jpg",
+        "description": "Впервые Кратос и Атрей встречают Моди вместе с его братом Магни и дядей Бальдром, подслушивая их разговор с Мимиром. Бог Мудрости отказывается помогать асам и прогоняет их, за что Моди грозится лишить его второго глаза."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Один",
+        "image": "https://i.pinimg.com/originals/6d/8d/b6/6d8db67d1174b2cb96d563598a2e52c9.jpg",
+        "description": "Один (др.-сканд. Óðinn) – верховный бог асов. В игре описывается как коварный, злобный и трусливый бог."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Лаувейя",
+        "image": "https://img.youtube.com/vi/5AoFhO5co3I/maxresdefault.jpg",
+        "description": "Несмотря на то, что Лаувейя жила жизнью простой смертной и по неизвестным причинам взяла себе имя Фэй и скрывала от семьи свою истинную природу, она была великаншей из Йотунхейма."
+      
+    },
+    {
+        "name": "Персей",
+        "image": "https://i.pinimg.com/originals/35/9e/e7/359ee73518aa1690fdb50601af0be1da.jpg",
+        "description": "В мифах Персей — знаменитый герой, который убил Медузу Горгону. Он использовал дары, которые предоставили ему боги. Среди этих предметов были Шлем Невидимости, крылатые сандалии Гермеса, волшебный меч, специальная сумка для головы Горгоны и отражающий щит, который позволил Персею смотреть на отражение Горгоны и не превращаться в камень."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Персефона",
+        "image": "https://vgtimes.ru/uploads/gallery/main/154610/1579995502_6005.jpg",
+        "description": "В древнегреческой мифологии Персефона (греч. Περσεφόνη) была покровительницей земли и плодородия, а также королевой Подземного мира. Она являлась дочерью Деметры и Зевса, особенно была любимой Деметрой. Обычной богиню изображали одетой в платье, несущей сноп колосьев пшеницы и улыбающейся Архаической улыбкой. У римлян Персефона называлась Прозерпиной."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Синдри",
+        "image": "https://pbs.twimg.com/media/EPJawfxWoAIwOuo.jpg",
+        "description": "Синдри и Брок помогают Кратосу и Атрею в их приключениях. В своей кузнице они могут улучшить оружие и экипировку спартанца и его сына, если им будут предоставлены необходимы материалы."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Тамур",
+        "image": "https://i.ytimg.com/vi/EhJfF2PktVg/maxresdefault.jpg",
+        "description": "Во время войны между асами и великанами Тамур пытался построить огромную стену в Йотунхейме, чтобы защитить свой народ, однако он не верил, что сможет построить её один. Тамур рассчитывал на помощь своего сына Хримтура, но тот выбрал путь воина и отказался выполнить приказ отца. В ходе перепалки Тамур ударил своего сына, после чего Хримтур обратился в бегство."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Тисифона",
+        "image": "https://i.pinimg.com/originals/38/01/e2/3801e292e93b0704339df128710f5038.jpg",
+        "description": "Одна из Эриний, или фурий, сестра двух Фурий Алекто и Мегеры. Именно она наказывала за убийства: отцеубийство, братоубийство и убийство. Она также была признана хранительницей врат Тартара. Миф повествует о том, как она влюбилась в смертного, Киферона, который отверг ее; разъяренная, она бросила в него змею со своей головы, которая убила его ядовитым укусом."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Тор",
+        "image": "https://vgtimes.ru/uploads/posts/2020-11/71969_4_3.jpg",
+        "description": "Тор - сын Одина и Йорд, сводный брат Тюра и Бальдра. Сиф родила ему дочь Фруд, а после - Моди. До рождения Моди у Тора был роман с великаншей Ярнсаксой, который закончился рождением Магни. К моменту смерти Лаувейи, Тор уже убил всех великанов в Мидгарде и заслужил страшную репутацию самого сильного скандинавского бога."
+        ,"lang":"ru"
+    },
+    {
+        "name": "Уран",
+        "image": "https://i.pinimg.com/originals/e8/a2/3b/e8a23bb76237c0e50f58bbd0b49187cc.jpg",
+        "description": "Уран и Гея были предками всех олимпийских богов, но ни один культ, обращенный непосредственно к Урану, не сохранился до классических времен, и Уран не появляется среди обычных тем греческой расписной керамики. Элементаль Земля, Небо и Стикс (сестра Никс) могут быть соединены, однако, в торжественном призыве в гомеровском эпосе. В Олимпийском мифе о сотворении мира, как рассказывает Гесиод в Теогонии, Уран приходил каждую ночь, чтобы покрыть землю и спариться с Геей, но он ненавидел детей, которых она родила ему. "
+        ,"lang":"ru"
+    },
+    {
+        "name": "Царь Мидас",
+        "image": "https://i.ytimg.com/vi/qWIHUIJNPEo/maxresdefault.jpg",
+        "description": "Мидас или Царь Мидас известен в греческой мифологии из-за его способности превращать все, к чему он прикасался в золото. Этот дар он получил в подарок от Диониса. Этот дар имел название Золотое прикосновение, или Касание Мидаса. Он превращал в золото все - деревья, камни и даже еду, из-за чего он не мог есть. После того, как он случайно превратил свою дочь Мэригольд в золото, Мидас возненавидел этот дар"
+        ,"lang":"ru"
+    },
+
+
+
+   
+    {
+        "name": "Atreus",
+        "image": "https://garantmarket.net/uploads/posts/2021-06/60cfc34a8db14.jpg",
+        "description": "Atreus is a young boy with brown hair, a fair face with freckles, and eyes the color of ice blue. His clothes are made of leather and fur. He is 11 years old.",
+        "lang":"en"
+    },
+    {
+        "name": "Ares",
+        "image": "https://cdna.artstation.com/p/assets/images/images/029/027/444/large/nton-smaznov-.jpg?1596224623",
+        "description": "Ares (English Ares, OE Greek Ἄρης) is the first god of war and the main antagonist in God of War. Ares is the son of Zeus and Hera and is commonly referred to as the most hated God on Mount Olympus.",
+        "lang":"en"
+    },
+    {
+        "name": " Jormungandr",
+        "image": "http://storge.pic2.me/w/560x350/917/598ae42151b2a.webp",
+        "description": "After the other Jotuns fled from the persecution of Thor and other aesir gods, Jormungandr was the only giant in Midgard capable of fighting Thor. He spends his time in hibernation protecting the chamber of secrets"
+       , "lang":"en"
+    },
+    {
+        "name": "Balder",
+        "image": "https://pbs.twimg.com/media/DkUywsvU0AImQoP.jpg",
+        "description": "Balder is similar to the deities of dying and resurgent nature present in the mythology of many peoples, patronizing agriculture or vegetation in general. Such gods are common in the mythologies and religions of peoples living or living in territories whose nature is characterized by seasonality."
+       , "lang":"en"   
+    },
+    {
+        "name": "Brock",
+        "image": "https://i.pinimg.com/originals/bc/d1/23/bcd123e8344ac28559b4991d6746a906.jpg",
+        "description": "Brock is a Character in God of War. Like his brother Sindri, Brok is a dwarf. Together they forged the ax of Kratos - Leviathan. Sindri and Brock help Kratos and Atreus on their adventures. In their forge, they can improve the weapons and equipment of the Spartan and his son, if they are provided with the necessary materials."
+        ,"lang":"en"
+    },
+    {
+        "name": "Helios",
+        "image": "https://i.ytimg.com/vi/j37gCpv29dQ/maxresdefault.jpg",
+        "description": "Helios is the sun god and guardian of oaths, and is a minor antagonist in God of War III. Along with Poseidon, Hades, Ares and Zeus, he is one of the most powerful gods."
+        ,"lang":"en"
+    },
+    {
+        "name": "Hermes",
+        "image": "https://i.pinimg.com/736x/03/e9/d0/03e9d04262a7abdd4698159cd2be5b61.jpg",
+        "description": "Hermes (eng. Hermes) - the ancient Greek god, the patron of travelers, shepherds, musical instruments and thieves. Messenger of Olympus."
+        ,"lang":"en"
+    },
+    {
+        "name": "Deimos",
+        "image": "https://i.pinimg.com/originals/f8/e1/dc/f8e1dc989bc99b7b5cfcc9e6606c7889.jpg",
+        "description": "Deimos (English Deimos, other Greek Δεῖμος) is the younger brother of Kratos. Deimos was kidnapped as a child by Ares and Athena to prevent a prophecy about the destruction of Mount Olympus."
+        ,"lang":"en"
+    },
+    {
+        "name": "Laufey",
+        "image": "https://img.youtube.com/vi/5AoFhO5co3I/maxresdefault.jpg",
+        "description": "Despite the fact that Laufeya lived the life of a mere mortal and, for unknown reasons, took the name Fei for herself and hid her true nature from her family, she was a giantess from Jotunheim."
+        ,"lang":"en"
+    },
+    {
+        "name": "Magni",
+        "image": "http://i.ytimg.com/vi/WxYYgL5joRw/maxresdefault.jpg?7857057827",
+        "description": "Magni and his brother Modi were summoned by Odin to help Baldr in his search for Kratos and his son. The three of them go to seek help from the imprisoned Mimir, but he refuses to help them and drives the aesir away, despite the fact that Baldr promises him freedom."
+        ,"lang":"en"
+    },
+    {
+        "name": "Mimir",
+        "image": "https://cdn.shazoo.ru/399674_pxZiPoB0dV_mimir.jpg",
+        "description": "109 years ago, Mimir was imprisoned by Odin, who personally tortured him daily."
+        ,"lang":"en"
+    },
+    {
+        "name": "Modi",
+        "image": "https://i.pinimg.com/originals/99/6f/46/996f4614bca040c7bd5cc3e782ef0c6d.jpg",
+        "description": "For the first time, Kratos and Atreus meet Modi along with his brother Magni and uncle Balder, eavesdropping on their conversation with Mimir. The God of Wisdom refuses to help the aesir and drives them away, for which Modi threatens to deprive him of his second eye."
+        ,"lang":"en"
+    },
+    {
+        "name": "Odin",
+        "image": "https://i.pinimg.com/originals/6d/8d/b6/6d8db67d1174b2cb96d563598a2e52c9.jpg",
+        "description": "Odin (ancient Scandinavian Óðinn) is the supreme god of the Ases. The game is described as an insidious, vicious and cowardly god."
+        ,"lang":"en"
+    },
+    
+    {
+        "name": "Perseus",
+        "image": "https://i.pinimg.com/originals/35/9e/e7/359ee73518aa1690fdb50601af0be1da.jpg",
+        "description": "In mythology, Perseus is the famous hero who killed the Gorgon Medusa. He used the gifts that the gods had given him. Among these items were the Helmet of Invisibility, Hermes' winged sandals, a magical sword, a special bag for the Gorgon's head, and a reflective shield that allowed Perseus to look at the Gorgon's reflection without turning to stone."
+        ,"lang":"en"
+    },
+    {
+        "name": "Persephone",
+        "image": "https://vgtimes.ru/uploads/gallery/main/154610/1579995502_6005.jpg",
+        "description": "In ancient Greek mythology, Persephone (Greek: Περσεφόνη) was the patroness of the earth and fertility, as well as the queen of the Underworld. She was the daughter of Demeter and Zeus, and was especially beloved by Demeter. The ordinary goddess was depicted wearing a dress, carrying a sheaf of ears of wheat and smiling with an Archaic smile. The Romans called Persephone Proserpina."
+        ,"lang":"en"
+    },
+    {
+        "name": "Sindri ",
+        "image": "https://pbs.twimg.com/media/EPJawfxWoAIwOuo.jpg",
+        "description": "Sindri and Brock help Kratos and Atreus on their adventures. In their forge, they can improve the weapons and equipment of the Spartan and his son, if they are provided with the necessary materials."
+        ,"lang":"en"
+    },
+    {
+        "name": "Tamur",
+        "image": "https://i.ytimg.com/vi/EhJfF2PktVg/maxresdefault.jpg",
+        "description": "During the war between the Æsir and the giants, Tamur tried to build a huge wall in Jotunheim to protect his people, but he didn't believe he could build it alone. Tamur counted on the help of his son Hrimtur, but he chose the path of a warrior and refused to obey his father's order. During the skirmish, Tamur hit his son, after which Hrimtur fled."
+        ,"lang":"en"
+    },
+    {
+        "name": "Tisiphone",
+        "image": "https://i.pinimg.com/originals/38/01/e2/3801e292e93b0704339df128710f5038.jpg",
+        "description": "Оbottom of the Erinyes, or Furies, the sister of the two Furies Alecto and Megaera. It was she who punished for the murders: parricide, fratricide and murder. She was also recognized as the guardian of the gates of Tartarus. The myth tells how she fell in love with a mortal, Cithaeron, who rejected her; enraged, she threw a snake at him from her head, which killed him with a venomous bite."
+        ,"lang":"en"
+    },
+    {
+        "name": "Thor",
+        "image": "https://vgtimes.ru/uploads/posts/2020-11/71969_4_3.jpg",
+        "description": "Thor is the son of Odin and Jord, the half-brother of Tyr and Baldur. Sif gave birth to his daughter Froude, and after - Modi. Before Modi was born, Thor had an affair with the giantess Järnsaksa, which ended with the birth of Magni. By the time of Laufey's death, Thor had already killed all the giants in Midgard and earned a terrible reputation as the most powerful Scandinavian god."
+        ,"lang":"en"
+    },
+    {
+        "name": "Uranus",
+        "image": "https://i.pinimg.com/originals/e8/a2/3b/e8a23bb76237c0e50f58bbd0b49187cc.jpg",
+        "description": "Uranus and Gaia were the ancestors of all the Olympian gods, but no cult directly to Uranus survived into classical times, and Uranus does not appear among the common themes of Greek painted pottery. The elemental Earth, Sky and Styx (Nyx's sister) can be combined, however, in the solemn invocation in the Homeric epic. In the Olympian creation myth, as Hesiod tells in Theogony, Uranus came every night to cover the earth and mate with Gaia, but he hated the children she bore him. "
+        ,"lang":"en"
+    },
+    {
+        "name": " King Midas",
+        "image": "https://i.ytimg.com/vi/qWIHUIJNPEo/maxresdefault.jpg",
+        "description": "Midas or King Midas is famous in Greek mythology because of his ability to turn everything he touches into gold. This gift he received as a gift from Dionysus. This gift was called the Golden Touch, or the Midas Touch. He turned everything into gold - trees, stones and even food, because of which he could not eat. After he accidentally turned his daughter Marigold into gold, Midas hated the gift."
+        ,"lang":"en"
+
+    },
+
+
+
+
+    {
+        "name": "Աթրեյ",
+        "image": "https://garantmarket.net/uploads/posts/2021-06/60cfc34a8db14.jpg",
+        "description": "Աթրեյը շագանակագույն մազերով երիտասարդ տղա է, պեպեններով գեղեցիկ դեմքով և սառցե կապույտի գույնի աչքերով: Նրա հագուստը կաշվից ու մորթուց է։ Նա 11 տարեկան է։",
+        "lang":"am"
+    },
+    {
+        "name": "Արես",
+        "image": "https://cdna.artstation.com/p/assets/images/images/029/027/444/large/nton-smaznov-.jpg?1596224623",
+        "description": "Արեսը (անգլ. Ares, OE հունարեն Ἄρης) պատերազմի առաջին աստվածն է և պատերազմի Աստծո գլխավոր հակառակորդը։ Արեսը Զևսի և Հերայի որդին է և սովորաբար կոչվում է Օլիմպոս լեռան ամենաատելի Աստված:",
+        "lang":"am"
+    },
+    {
+        "name": "Յորմունգանդ",
+        "image": "http://storge.pic2.me/w/560x350/917/598ae42151b2a.webp",
+        "description": "Այն բանից հետո, երբ մյուս Ջոտունները փախան Թորի և Ասիրի այլ աստվածների հալածանքից, Ջորմունգանդրը միակ հսկան էր Միդգարդում, որն ընդունակ էր կռվել Թորի դեմ: Նա իր ժամանակն անցկացնում է ձմեռային քնի մեջ՝ պաշտպանելով գաղտնիքների պալատը"
+       , "lang":"am"
+    },
+    {
+        "name": "Բալդեր",
+        "image": "https://pbs.twimg.com/media/DkUywsvU0AImQoP.jpg",
+        "description": "Բալդերը նման է մեռնող և վերածնվող բնության աստվածություններին, որոնք առկա են շատ ժողովուրդների դիցաբանության մեջ՝ հովանավորելով գյուղատնտեսությունը կամ ընդհանրապես բուսականությունը: Նման աստվածները տարածված են այն ժողովուրդների դիցաբանություններում և կրոններում, որոնք ապրում կամ ապրում են տարածքներում, որոնց բնությունը բնութագրվում է սեզոնայնությամբ։"
+       , "lang":"am"   
+    },
+    {
+        "name": "Բրոք",
+        "image": "https://i.pinimg.com/originals/bc/d1/23/bcd123e8344ac28559b4991d6746a906.jpg",
+        "description": "Բրոքը պատերազմի Աստծո կերպար է: Ինչպես իր եղբայր Սինդրին, այնպես էլ Բրոկը գաճաճ է։ Նրանք միասին կեղծեցին Կրատոսի կացինը` Լևիաթանը: Սինդրին և Բրոքը օգնում են Կրատոսին և Ատրեուսին իրենց արկածների մեջ։ Իրենց դարբնոցում նրանք կարող են կատարելագործել սպարտացու ու նրա որդու զենքն ու տեխնիկան, եթե նրանց ապահովեն անհրաժեշտ նյութեր։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Հելիոս",
+        "image": "https://i.ytimg.com/vi/j37gCpv29dQ/maxresdefault.jpg",
+        "description": "Հելիոսը արևի աստվածն է և երդումների պահապանը և երրորդ պատերազմի Աստծո անչափահաս հակառակորդն է: Պոսեյդոնի, Հադեսի, Արեսի և Զևսի հետ միասին նա ամենահզոր աստվածներից է։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Հերմես ",
+        "image": "https://i.pinimg.com/736x/03/e9/d0/03e9d04262a7abdd4698159cd2be5b61.jpg",
+        "description": "Հերմես (անգլ. Hermes) - հին հունական աստված, ճանապարհորդների, հովիվների, երաժշտական գործիքների և գողերի հովանավորը: Օլիմպոսի սուրհանդակ."
+        ,"lang":"am"
+    },
+    {
+        "name": "Դեյմոս",
+        "image": "https://i.pinimg.com/originals/f8/e1/dc/f8e1dc989bc99b7b5cfcc9e6606c7889.jpg",
+        "description": "Դեյմոսը (անգլ. Deimos, այլ հունարեն Δεῖμος) Կրատոսի կրտսեր եղբայրն է։ Դեյմոսը մանուկ հասակում առևանգվել է Արեսի և Աթենայի կողմից, որպեսզի կանխեն Օլիմպոս լեռան կործանման մասին մարգարեությունը:"
+        ,"lang":"am"
+    },
+    {
+        "name": "Լաուֆեյ",
+        "image": "https://img.youtube.com/vi/5AoFhO5co3I/maxresdefault.jpg",
+        "description": "Չնայած այն հանգամանքին, որ Լաուֆեյան ապրում էր հասարակ մահկանացուի կյանքով և, անհայտ պատճառներով, իր համար վերցրեց Ֆեյ անունը և թաքցրեց իր իսկական էությունը իր ընտանիքից, նա Ջոտունհեյմից հսկա աղջիկ էր:"
+        ,"lang":"am"
+    },
+    {
+        "name": "Մագնի",
+        "image": "http://i.ytimg.com/vi/WxYYgL5joRw/maxresdefault.jpg?7857057827",
+        "description": "Մագնին և նրա եղբայր Մոդին կանչվել էին Օդինի կողմից՝ օգնելու Բալդրին Քրատոսի և նրա որդու որոնման հարցում: Նրանք երեքով գնում են օգնություն խնդրելու բանտարկված Միմիրից, բայց նա հրաժարվում է օգնել նրանց և քշում է ասիրին, չնայած այն բանին, որ Բալդրը նրան ազատություն է խոստանում։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Միմիր",
+        "image": "https://cdn.shazoo.ru/399674_pxZiPoB0dV_mimir.jpg",
+        "description": "109 տարի առաջ Միմիրը բանտարկվեց Օդինի կողմից, որն անձամբ էր տանջում նրան ամեն օր։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Մոդի",
+        "image": "https://i.pinimg.com/originals/99/6f/46/996f4614bca040c7bd5cc3e782ef0c6d.jpg",
+        "description": "Առաջին անգամ Կրատոսը և Ատրեուսը հանդիպում են Մոդիին իր եղբոր՝ Մագնիի և հորեղբոր Բալդերի հետ՝ գաղտնալսելով Միմիրի հետ նրանց զրույցը։ Իմաստության Աստվածը հրաժարվում է օգնել էսիրին և վանում է նրանց, ինչի համար Մոդին սպառնում է զրկել նրան երկրորդ աչքից։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Օդին",
+        "image": "https://i.pinimg.com/originals/6d/8d/b6/6d8db67d1174b2cb96d563598a2e52c9.jpg",
+        "description": "Օդինը (հին սկանդինավյան Óðinn) Ասեսների գերագույն աստվածն է։ Խաղը նկարագրվում է որպես նենգ, արատավոր և վախկոտ աստված:"
+        ,"lang":"am"
+    },
+    
+    {
+        "name": "Պերսեյ",
+        "image": "https://i.pinimg.com/originals/35/9e/e7/359ee73518aa1690fdb50601af0be1da.jpg",
+        "description": "Դիցաբանության մեջ Պերսևսը հայտնի հերոսն է, ով սպանել է Գորգոն Մեդուզային: Նա օգտագործում էր այն նվերները, որոնք նրան տվել էին աստվածները։ Այդ իրերի թվում էին Անտեսանելիության սաղավարտը, Հերմեսի թեւավոր սանդալները, կախարդական թուրը, Գորգոնի գլխի համար նախատեսված հատուկ պայուսակը և արտացոլող վահանը, որը Պերսևսին թույլ էր տալիս նայել Գորգոնի արտացոլանքին՝ առանց քար դառնալու:"
+        ,"lang":"am"
+    },
+    {
+        "name": "Պերսեֆոնե",
+        "image": "https://vgtimes.ru/uploads/gallery/main/154610/1579995502_6005.jpg",
+        "description": "Հին հունական դիցաբանության մեջ Պերսեֆոնը (հունարեն՝ Περσεφόνη) երկրի և պտղաբերության հովանավորն էր, ինչպես նաև Անդրաշխարհի թագուհին։ Նա Դեմետրի և Զևսի դուստրն էր և հատկապես սիրելի էր Դեմետրի կողմից։ Սովորական աստվածուհին պատկերված էր զգեստով, ցորենի հասկերով և ժպտում էր արխայիկ ժպիտով։ Հռոմեացիները Պերսեֆոնին անվանել են Պրոսերպինա:"
+        ,"lang":"am"
+    },
+    {
+        "name": "Սինդրի ",
+        "image": "https://pbs.twimg.com/media/EPJawfxWoAIwOuo.jpg",
+        "description": "Սինդրին և Բրոքը օգնում են Կրատոսին և Ատրեուսին իրենց արկածների մեջ։ Իրենց դարբնոցում նրանք կարող են կատարելագործել սպարտացու ու նրա որդու զենքն ու տեխնիկան, եթե նրանց ապահովեն անհրաժեշտ նյութեր։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Թամուր",
+        "image": "https://i.ytimg.com/vi/EhJfF2PktVg/maxresdefault.jpg",
+        "description": "Ասերի և հսկաների միջև պատերազմի ժամանակ Թամուրը փորձեց հսկայական պարիսպ կառուցել Ջոտունհայմում, որպեսզի պաշտպանի իր ժողովրդին, բայց նա չէր հավատում, որ կարող է միայնակ կառուցել այն: Թամուրը հույսը դրել է որդու՝ Հրիմթուրի օգնության վրա, սակայն նա ընտրել է մարտիկի ճանապարհը և հրաժարվել է կատարել հոր հրամանը։ Փոխհրաձգության ժամանակ Թամուրը հարվածել է որդուն, որից հետո Հրիմթուրը դիմել է փախուստի։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Տիսիֆոնե",
+        "image": "https://i.pinimg.com/originals/38/01/e2/3801e292e93b0704339df128710f5038.jpg",
+        "description": "Էրինյեսների կամ կատաղիների՝ երկու Furies Ալեկտոյի և Մեգաերայի քրոջ մասին: Հենց նա է պատժել սպանությունների համար՝ սպանություն, եղբայրասպանություն և սպանություն։ Նա նաև ճանաչվել է Տարտարոսի դարպասների պահապան։ Առասպելը պատմում է, թե ինչպես է նա սիրահարվել մահկանացուի՝ Կիթաերոնին, որը մերժել է նրան. կատաղած՝ նա գլխից օձ է նետել նրա վրա, որը թունավոր խայթոցով սպանել է նրան։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Թոր",
+        "image": "https://vgtimes.ru/uploads/posts/2020-11/71969_4_3.jpg",
+        "description": "Թորը Օդինի և Ջորդի որդին է, Տիրի և Բալդուրի խորթ եղբայրը։ Սիֆը ծնեց իր դստերը՝ Ֆրուդին, իսկ հետո՝ Մոդին։ Մինչ Մոդիի ծնվելը Թորը սիրավեպ ուներ հսկա Յարնսակսայի հետ, որն ավարտվեց Մագնիի ծնունդով։ Լաուֆիի մահվան պահին Թորն արդեն սպանել էր բոլոր հսկաներին Միդգարդում և սարսափելի համբավ էր վաստակել որպես սկանդինավյան ամենահզոր աստված։"
+        ,"lang":"am"
+    },
+    {
+        "name": "Ուրան",
+        "image": "https://i.pinimg.com/originals/e8/a2/3b/e8a23bb76237c0e50f58bbd0b49187cc.jpg",
+        "description": "Ուրանը և Գայան եղել են բոլոր օլիմպիական աստվածների նախնիները, բայց Ուրանի ոչ մի պաշտամունք չի գոյատևել մինչև դասական ժամանակները, և Ուրանը չի երևում հունական ներկված խեցեղենի ընդհանուր թեմաների շարքում: Տարերային Երկիրը, Երկինքը և Ստիքսը (Նիքսի քույրը) կարելի է համատեղել, սակայն, հոմերոսյան էպոսի հանդիսավոր կոչում: Օլիմպիական արարչագործության առասպելում, ինչպես Հեսիոդոսն է պատմում Թեոգոնիայում, Ուրանն ամեն գիշեր գալիս էր երկիրը ծածկելու և Գայայի հետ զուգավորվելու, բայց նա ատում էր այն երեխաներին, որոնք նա ծնեց իրեն: "
+        ,"lang":"am"
+    },
+    {
+        "name": " Միդաս թագավոր",
+        "image": "https://i.ytimg.com/vi/qWIHUIJNPEo/maxresdefault.jpg",
+        "description": "Միդասը կամ Միդաս թագավորը հայտնի է հունական դիցաբանության մեջ այն ամենին, ինչին դիպչում է ոսկու վերածելու ունակության պատճառով: Այս նվերը նա ստացել է որպես նվեր Դիոնիսոսից։ Այս նվերը կոչվում էր «Ոսկե հպում» կամ «Միդասի հպում»: Նա ամեն ինչ վերածել է ոսկու՝ ծառեր, քարեր և նույնիսկ ուտելիք, ինչի պատճառով չի կարողացել ուտել։ Այն բանից հետո, երբ նա պատահաբար ոսկի դարձրեց իր դուստր Մարիգոլդին, Միդասը ատեց նվերը:"
+        ,"lang":"am"
+
+    }
+
+]
+

@@ -1,0 +1,28 @@
+[
+    {
+        "lang": "ru",
+        "shop": "Магазин"
+    },
+    {
+        "lang": "am",
+        "shop": "Խանութ"
+    },
+    {
+        "lang": "en",
+        "text": "Shop"
+    },
+
+
+    {
+        "lang": "ru",
+        "text": "a"
+    },
+    {
+        "lang": "am",
+        "text": "b"
+    },
+    {
+        "lang": "en",
+        "text": "c"
+    }
+]

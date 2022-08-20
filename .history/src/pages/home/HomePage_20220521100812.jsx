@@ -1,0 +1,74 @@
+import style from "./Home.module.scss";
+import "../../App.scss";
+import { useState } from "react";
+import Clk from "./Clk";
+
+const Home = (props) => {
+  
+    let arr = [1,2,3]
+
+    let [a,b,c] = arr;
+  
+    console.log(a,b,c);
+
+
+
+    return (
+        <div className={style.home_big}>
+            <section className="dark">
+                <div className="container py-4">
+                    <h1 className="h1 text-center" id="pageHeaderTitle">
+                        ПЕРСОНАЖИ
+                    </h1>
+
+                    {props.JsonPersonsData.map((item) => {
+                        // console.log(item.description.substring(0,10));
+                        return (
+                            <article className="postcard dark blue">
+                                <a className="postcard__img_link" href="#">
+                                    <img
+                                        className="postcard__img"
+                                        src={item.image}
+                                        alt="Image Title"
+                                    />
+                                </a>
+                                <div className="postcard__text">
+                                    <h1 className="postcard__title blue">
+                                        <a href="#">{item.name.sort()}</a>
+                                    </h1>
+                                    <div className="postcard__subtitle small">
+                                        <time datetime="2020-05-25 12:00:00">
+                                            <i className="fas fa-calendar-alt mr-2"></i>
+                                            Mon, May 25th 2020
+                                        </time>
+                                    </div>
+                                    <div className="postcard__bar"></div>
+                                    
+                                    
+                                        <Clk desc = {item.description} />
+                                     
+                                    <ul className="postcard__tagbox">
+
+                                        <li className="tag__item">
+                                            <i className="fas fa-clock mr-2"></i>
+                                            55 mins.
+                                        </li>
+                                        <li className="tag__item play blue">
+                                            <a href="#">
+                                                <i className="fas fa-play mr-2"></i>
+                                                Play Episode
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </article>
+                        );
+                    })}
+
+                  
+                </div>
+            </section>
+        </div>
+    );
+};
+export default Home;

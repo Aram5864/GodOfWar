@@ -1,0 +1,28 @@
+.home_big {
+    background-color: rgb(238, 245, 243);
+    .header {
+        background: url("https://images.unsplash.com/photo-1415795854641-f4a487a0fdc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80")
+            center center / cover no-repeat;
+    }
+    
+    
+}
+
+
+.btn {
+    border: none;
+    color: rgb(20, 25, 29);
+    background: transparent;
+    cursor: pointer !important;
+}
+
+.imageShowLess {
+    width: 39px;
+    height: 70px;
+}
+
+.imageShowLess2{
+    width: 39px;
+    height: 70px;
+    transform: rotate(180deg);
+}

@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "God of war 1",
+        "price": 25000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg",
+        "lang":"en"
+    },
+    
+    {
+        "id": 2,
+        "name": "God of war 2",
+        "price": 35000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg",
+        "lang":"en"
+    },
+    {
+        "id": 3,
+        "name": "God of war 3",
+        "price": 40000,
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png",
+        "lang":"en"
+    },
+    {
+        "id": 4,
+        "name": "God of war 4",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/81N142alGkL._AC_SX425_.jpg",
+        "lang":"en"
+    },
+    {
+        "id": 5,
+        "name": "God of war 5 ragnarok",
+        "price": 23000,
+        "image": "https://assets-prd.ignimgs.com/2021/09/09/god-of-war-ragnarok-button-1631231879154.jpg",
+        "lang":"en"
+    },
+
+
+
+
+
+    {
+        "id": 1,
+        "name": "Бог войны 1",
+        "price": 25000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg",
+        "lang":"ru"
+    },
+    
+    {
+        "id": 2,
+        "name": "Бог войны 2",
+        "price": 35000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg",
+        "lang":"ru"
+    },
+    {
+        "id": 3,
+        "name": "Бог войны 3",
+        "price": 40000,
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png",
+        "lang":"ru"
+    },
+    {
+        "id": 4,
+        "name": "Бог войны 4",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/81N142alGkL._AC_SX425_.jpg",
+        "lang":"ru"
+    },
+    {
+        "id": 5,
+        "name": "Бог войны 5 Рагнарёк",
+        "price": 23000,
+        "image": "https://assets-prd.ignimgs.com/2021/09/09/god-of-war-ragnarok-button-1631231879154.jpg",
+        "lang":"ru"
+    },
+
+
+
+
+
+    {
+        "id": 1,
+        "name": "Պատերազմի աստվածը 1",
+        "price": 25000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg",
+        "lang":"am"
+    },
+    
+    {
+        "id": 2,
+        "name": "Պատերազմի աստվածը 2",
+        "price": 35000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg",
+        "lang":"am"
+    },
+    {
+        "id": 3,
+        "name": "Պատերազմի աստվածը 3",
+        "price": 40000,
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png",
+        "lang":"am"
+    },
+    {
+        "id": 4,
+        "name": "Պատերազմի աստվածը 4",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/81N142alGkL._AC_SX425_.jpg",
+        "lang":"am"
+    },
+    {
+        "id": 5,
+        "name": "Պատերազմի աստվածը 5 Ռագնարոկ",
+        "price": 23000,
+        "image": "https://assets-prd.ignimgs.com/2021/09/09/god-of-war-ragnarok-button-1631231879154.jpg",
+        "lang":"am"
+    }
+
+
+
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "God of war 1",
+        "price": 25000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg"
+    },
+    {
+        "id": 2,
+        "name": "God of war 2",
+        "price": 35000,
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg"
+    },
+    {
+        "id": 3,
+        "name": "God of war 3",
+        "price": 40000,
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "God of war 4",
+        "price": 15000,
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "God of war 5 ragnarok",
+        "price": 23000,
+        "image": ""
+    }
+]
